@@ -1,0 +1,12 @@
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/obj/Debug/net9.0/AnimalPictureApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/obj/Debug/net9.0/AnimalPictureApp.Core.AssemblyInfoInputs.cache
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/obj/Debug/net9.0/AnimalPictureApp.Core.AssemblyInfo.cs
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/obj/Debug/net9.0/AnimalPictureApp.Core.csproj.CoreCompileInputs.cache
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/obj/Debug/net9.0/AnimalPictureApp.Core.csproj.AssemblyReference.cache
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/bin/Debug/net9.0/AnimalPictureApp.Core.deps.json
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/bin/Debug/net9.0/AnimalPictureApp.Core.dll
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/bin/Debug/net9.0/AnimalPictureApp.Core.pdb
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/obj/Debug/net9.0/AnimalPictureApp.Core.dll
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/obj/Debug/net9.0/refint/AnimalPictureApp.Core.dll
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/obj/Debug/net9.0/AnimalPictureApp.Core.pdb
+/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.Core/obj/Debug/net9.0/ref/AnimalPictureApp.Core.dll

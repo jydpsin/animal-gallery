@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.AnimalPictureApp.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.AnimalPictureApp.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.AnimalPictureApp.API.props",
+      "PackagePath": "build\\AnimalPictureApp.API.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.AnimalPictureApp.API.props",
+      "PackagePath": "buildMultiTargeting\\AnimalPictureApp.API.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.AnimalPictureApp.API.props",
+      "PackagePath": "buildTransitive\\AnimalPictureApp.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

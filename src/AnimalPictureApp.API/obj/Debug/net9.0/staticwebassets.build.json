@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "YToMnMJmbCUEEMbIDg3uaoyWKxnDow3q/TmI7n87dng=",
+  "Source": "AnimalPictureApp.API",
+  "BasePath": "_content/AnimalPictureApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AnimalPictureApp.API/wwwroot",
+      "Source": "AnimalPictureApp.API",
+      "ContentRoot": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/",
+      "BasePath": "_content/AnimalPictureApp.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/03jwblk35n-mlv026tjp0.gz",
+      "SourceId": "AnimalPictureApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AnimalPictureApp.API",
+      "RelativePath": "index#[.{fingerprint=mlv026tjp0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hxr6jq7hgm",
+      "Integrity": "5R10qoYnC5BU0bLHtS1ADg6f3xDP8eZC00MuEupGL+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/blc3qcnp76-vr89ibnrl5.gz",
+      "SourceId": "AnimalPictureApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AnimalPictureApp.API",
+      "RelativePath": "js/site#[.{fingerprint=vr89ibnrl5}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/js/site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gygbea5u8x",
+      "Integrity": "aM8TqgACaj2WaeepS9pdkC0duwdt0jDWDnabjH5yX6k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/zgropdlb4q-il5levcwdu.gz",
+      "SourceId": "AnimalPictureApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AnimalPictureApp.API",
+      "RelativePath": "css/site#[.{fingerprint=il5levcwdu}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/css/site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fzxchw0uvx",
+      "Integrity": "C+jvPtdRQJEiT61Nj0C2yjhgQ1CDB/uKoCFlDSxQCtY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/css/site.css",
+      "SourceId": "AnimalPictureApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/",
+      "BasePath": "_content/AnimalPictureApp.API",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "il5levcwdu",
+      "Integrity": "lnmB+E9T3SNNUzqycrE4ndp1Wc/Zr/3LiCGx+EwhEYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/index.html",
+      "SourceId": "AnimalPictureApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/",
+      "BasePath": "_content/AnimalPictureApp.API",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlv026tjp0",
+      "Integrity": "+kmwFo6jIFsktERlX4R0+Hj9OfDIKiMamLHHNeZNYJE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/js/site.js",
+      "SourceId": "AnimalPictureApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/",
+      "BasePath": "_content/AnimalPictureApp.API",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vr89ibnrl5",
+      "Integrity": "Vd2yRhoErl+SXYuNTelzIc0PrQfSWZSLjkQSylr45Mg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/zgropdlb4q-il5levcwdu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002183406114"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+jvPtdRQJEiT61Nj0C2yjhgQ1CDB/uKoCFlDSxQCtY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lnmB+E9T3SNNUzqycrE4ndp1Wc/Zr/3LiCGx+EwhEYw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnmB+E9T3SNNUzqycrE4ndp1Wc/Zr/3LiCGx+EwhEYw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lnmB+E9T3SNNUzqycrE4ndp1Wc/Zr/3LiCGx+EwhEYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnmB+E9T3SNNUzqycrE4ndp1Wc/Zr/3LiCGx+EwhEYw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/zgropdlb4q-il5levcwdu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+jvPtdRQJEiT61Nj0C2yjhgQ1CDB/uKoCFlDSxQCtY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+jvPtdRQJEiT61Nj0C2yjhgQ1CDB/uKoCFlDSxQCtY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.il5levcwdu.css",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/zgropdlb4q-il5levcwdu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002183406114"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+jvPtdRQJEiT61Nj0C2yjhgQ1CDB/uKoCFlDSxQCtY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lnmB+E9T3SNNUzqycrE4ndp1Wc/Zr/3LiCGx+EwhEYw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il5levcwdu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnmB+E9T3SNNUzqycrE4ndp1Wc/Zr/3LiCGx+EwhEYw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.il5levcwdu.css",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lnmB+E9T3SNNUzqycrE4ndp1Wc/Zr/3LiCGx+EwhEYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il5levcwdu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnmB+E9T3SNNUzqycrE4ndp1Wc/Zr/3LiCGx+EwhEYw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.il5levcwdu.css.gz",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/zgropdlb4q-il5levcwdu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+jvPtdRQJEiT61Nj0C2yjhgQ1CDB/uKoCFlDSxQCtY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il5levcwdu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+jvPtdRQJEiT61Nj0C2yjhgQ1CDB/uKoCFlDSxQCtY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/03jwblk35n-mlv026tjp0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001254705144"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "796"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5R10qoYnC5BU0bLHtS1ADg6f3xDP8eZC00MuEupGL+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+kmwFo6jIFsktERlX4R0+Hj9OfDIKiMamLHHNeZNYJE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kmwFo6jIFsktERlX4R0+Hj9OfDIKiMamLHHNeZNYJE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+kmwFo6jIFsktERlX4R0+Hj9OfDIKiMamLHHNeZNYJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kmwFo6jIFsktERlX4R0+Hj9OfDIKiMamLHHNeZNYJE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/03jwblk35n-mlv026tjp0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5R10qoYnC5BU0bLHtS1ADg6f3xDP8eZC00MuEupGL+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5R10qoYnC5BU0bLHtS1ADg6f3xDP8eZC00MuEupGL+Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.mlv026tjp0.html",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/03jwblk35n-mlv026tjp0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001254705144"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "796"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5R10qoYnC5BU0bLHtS1ADg6f3xDP8eZC00MuEupGL+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+kmwFo6jIFsktERlX4R0+Hj9OfDIKiMamLHHNeZNYJE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlv026tjp0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kmwFo6jIFsktERlX4R0+Hj9OfDIKiMamLHHNeZNYJE="
+        }
+      ]
+    },
+    {
+      "Route": "index.mlv026tjp0.html",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+kmwFo6jIFsktERlX4R0+Hj9OfDIKiMamLHHNeZNYJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlv026tjp0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kmwFo6jIFsktERlX4R0+Hj9OfDIKiMamLHHNeZNYJE="
+        }
+      ]
+    },
+    {
+      "Route": "index.mlv026tjp0.html.gz",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/03jwblk35n-mlv026tjp0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5R10qoYnC5BU0bLHtS1ADg6f3xDP8eZC00MuEupGL+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlv026tjp0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5R10qoYnC5BU0bLHtS1ADg6f3xDP8eZC00MuEupGL+Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/blc3qcnp76-vr89ibnrl5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000997008973"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1002"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aM8TqgACaj2WaeepS9pdkC0duwdt0jDWDnabjH5yX6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Vd2yRhoErl+SXYuNTelzIc0PrQfSWZSLjkQSylr45Mg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vd2yRhoErl+SXYuNTelzIc0PrQfSWZSLjkQSylr45Mg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vd2yRhoErl+SXYuNTelzIc0PrQfSWZSLjkQSylr45Mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vd2yRhoErl+SXYuNTelzIc0PrQfSWZSLjkQSylr45Mg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/blc3qcnp76-vr89ibnrl5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aM8TqgACaj2WaeepS9pdkC0duwdt0jDWDnabjH5yX6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aM8TqgACaj2WaeepS9pdkC0duwdt0jDWDnabjH5yX6k="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.vr89ibnrl5.js",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/blc3qcnp76-vr89ibnrl5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000997008973"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1002"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aM8TqgACaj2WaeepS9pdkC0duwdt0jDWDnabjH5yX6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Vd2yRhoErl+SXYuNTelzIc0PrQfSWZSLjkQSylr45Mg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vr89ibnrl5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vd2yRhoErl+SXYuNTelzIc0PrQfSWZSLjkQSylr45Mg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.vr89ibnrl5.js",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vd2yRhoErl+SXYuNTelzIc0PrQfSWZSLjkQSylr45Mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vr89ibnrl5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vd2yRhoErl+SXYuNTelzIc0PrQfSWZSLjkQSylr45Mg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.vr89ibnrl5.js.gz",
+      "AssetFile": "/Users/joydeepsinha/Documents/SourceCode/CAMUNDA-animal-picture/src/AnimalPictureApp.API/obj/Debug/net9.0/compressed/blc3qcnp76-vr89ibnrl5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aM8TqgACaj2WaeepS9pdkC0duwdt0jDWDnabjH5yX6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 12:22:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vr89ibnrl5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aM8TqgACaj2WaeepS9pdkC0duwdt0jDWDnabjH5yX6k="
+        }
+      ]
+    }
+  ]
+}

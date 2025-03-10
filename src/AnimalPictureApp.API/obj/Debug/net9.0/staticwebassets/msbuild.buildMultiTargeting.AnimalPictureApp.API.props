@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/AnimalPictureApp.API.props" />
+</Project>
