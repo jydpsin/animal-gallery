@@ -23,7 +23,7 @@ A .NET Core Web API that downloads and stores random pictures of cats, dogs, and
 1. Clone and navigate to the repository:
    ```bash
    git clone <repository-url>
-   cd CAMUNDA-animal-picture
+   cd animal-gallery
    ```
 
 2. Run the application using Docker:
@@ -44,7 +44,7 @@ A .NET Core Web API that downloads and stores random pictures of cats, dogs, and
    - Click "Save New Pictures" to download and save pictures
    - Click "Get Latest Picture" to view the most recent picture
 3. The UI will display:
-   - The downloaded picture
+   - The last downloaded picture
    - Status messages for successful/failed operations
    - Picture metadata (ID, type, when it was stored)
 
