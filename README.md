@@ -94,6 +94,14 @@ docker-compose exec api sqlite3 /app/Data/animalpictures.db \
 
 ## Running Tests
 
+First install dotnet (if not installed)
+
+```bash
+brew install dotnet latest
+```
+
+Then run
+
 ```bash
 dotnet test
 ```
