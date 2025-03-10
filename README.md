@@ -22,7 +22,7 @@ A .NET Core Web API that downloads and stores random pictures of cats, dogs, and
 
 1. Clone and navigate to the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jydpsin/animal-gallery.git
    cd animal-gallery
    ```
 
